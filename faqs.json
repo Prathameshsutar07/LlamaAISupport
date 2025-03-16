@@ -1,0 +1,8 @@
+{
+    "How to edit a dashboard user?": "1) Login to Ecobillz.com dashboard\n2) Click on Profile and select Settings\n3) Scroll down and search for 'Dashboard User'\n4) Select 'Global Users' and click on 'Edit' icon\n5) Edit the required fields",
+    
+    "How to create a new dashboard user?": "1) Login to Ecobillz.com dashboard\n2) Click on Profile and select Settings\n3) Scroll down and search for 'Dashboard User'\n4) Select 'Global Users' and click on 'Create User'\n5) Add details: AD ID, Name, Mobile, Email, Password, User Type, Disallowed Documents\n6) Click 'Save'",
+  
+    "How to delete a dashboard user?": "1) Login to Ecobillz.com dashboard\n2) Click on Profile and select Settings\n3) Scroll down and search for 'Dashboard User'\n4) Select 'Global Users' and search for the username\n5) If found, select 'Delete'\n6) User will be removed"
+  }
+  
